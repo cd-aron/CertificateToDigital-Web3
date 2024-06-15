@@ -104,8 +104,8 @@ function Certificate() {
       {
         headers: {
           'Content-Type': `multipart/form-data; boundary=${data._boundary}`,
-          'pinata_api_key': '0e3a115dacb787547eda',
-          'pinata_secret_api_key': '2ef8358409e880fe5ab74d8d70ffe8d4299166ae374f688da481f78af0535ad5',
+          'pinata_api_key': '',
+          'pinata_secret_api_key': '',
         },
       }
     );
