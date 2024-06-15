@@ -1,0 +1,21 @@
+/* Navigation bar styles */
+.navbar {
+  display: flex; /* Arrange links horizontally */
+  justify-content: space-between; /* Distribute links evenly */
+  align-items: center; /* Align links vertically */
+  padding: 10px 20px; /* Add some padding */
+  background-color: #f0f0f0; /* Light background color */
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.navbar a {
+  text-decoration: none; /* Remove underline from links */
+  color: #333; /* Text color */
+  padding: 5px 10px; /* Add some padding to links */
+  font-weight: bold; /* Make links bolder */
+  transition: color 0.2s ease-in-out; /* Smooth color transition on hover */
+}
+
+.navbar a:hover {
+  color: #007bff; /* Change link color on hover */
+}
