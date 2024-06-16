@@ -21,7 +21,7 @@ Basic commands:
 
 React js -> For front end
 Installation:
-1) npx create-react-app my-app
+1) npx create-react-app client
 2) npm install web3 
 3) npm install jspdf 
 4) npm install html2canvas
