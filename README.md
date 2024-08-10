@@ -1,6 +1,6 @@
 Let's get direct to the point !
 
-The system has a form through which the certificate metadata is provided to the system and the system generates a digital certificate which can be uploaded to IPFS(InterPlanetary File System)  in my case i'm using pinata gateway and storge then the stored certificate hash is used to issue an NFT(Non-fungible tokens) onchain with unique public key which is used for further verification and ownership of the certificate.
+The system has a form through which the certificate metadata is provided to the system and the system generates a digital certificate which can be uploaded to IPFS(InterPlanetary File System)  in my case i'm using pinata gateway and storage then the stored certificate hash is used to issue an NFT(Non-fungible tokens) onchain with unique public key which is used for further verification and ownership of the certificate.
 
 Keywords: IPFS, NFT, Blockchain Network.
 
